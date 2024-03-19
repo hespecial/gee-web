@@ -1,3 +1,3 @@
-module github.com/hespecial/gee-web/gee
+module gee
 
 go 1.20
